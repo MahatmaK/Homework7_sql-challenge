@@ -1,1 +1,2 @@
-This is Repository for Homework 7 - SQL Challenge
+# SQL
+This is a repository an SQL project
